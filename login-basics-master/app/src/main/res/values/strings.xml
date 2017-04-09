@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">자비스</string>
+
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="title_activity_register">RegisterActivity</string>
+
+    <string name="title_activity_forgot">ForgotPassActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="facebook_app_id">1206850176097195</string>
+    <string name="buy_utilize_info">이 이용권은 어플리케이션의 이용권이며 구매 후 24시간이 지나면 자동으로 소멸됩니다. 환불은 불가능합니다. 기본으로 2개의 슬롯이
+    제공되며 추가 슬롯은 따로 구매하셔야 합니다.</string>
+
+    <string name="no_alarms">No alarms have been set</string>
+
+    <string name="button_new">New</string>
+
+    <!-- Menu -->
+    <string name="menu_item_new">New</string>
+    <string name="menu_item_save">Save</string>
+    <string name="menu_item_delete">Cancel</string>
+    <string name="menu_item_rate">Rate on Google Play</string>
+    <string name="menu_item_website">Website</string>
+    <string name="menu_item_report">Report a Bug</string>
+
+    <!-- Alert -->
+    <string name="_0">0</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="decimal_button_text">,</string>
+    <string name="clear_button_text">Clear</string>
+    <string name="minus_button_text">-</string>
+
+
+    <color name="title_background_color">#000000</color>
+
+    <string name="button_delete">Delete</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="hello">경북 날씨</string>
+
+</resources>

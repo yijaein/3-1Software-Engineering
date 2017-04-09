@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "283932392233",
+    "project_id": "turnkey-charter-149113"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283932392233:android:88d21464220f0281",
+        "android_client_info": {
+          "package_name": "bscorp.appbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283932392233-5odf615i52oogq1emp1ormn7j5748rf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bscorp.appbase",
+            "certificate_hash": "F478A8F6C5555C3E5667A1204C82D8A81F9E03B8"
+          }
+        },
+        {
+          "client_id": "283932392233-uv5ioqci6r3h076efcrbsu4ej64aj8bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9mwJ836US68lDT2na8YfkYxLVF2u9ptM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:src="@drawable/parbin"
+        android:id="@+id/buy_ticket_main"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/buy_utilize_info"
+        android:id="@+id/buy_ticket_info_txt"
+        />
+
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:src="@drawable/parbin"
+        android:id="@+id/ticketBtn1"/>
+
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:src="@drawable/parbin2"
+        android:id="@+id/ticketBtn2"
+        />
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:src="@drawable/parbin"
+        android:id="@+id/ticketBtn3"
+        />
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:src="@drawable/parbin2"
+        android:id="@+id/ticketBtn4"
+        />
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:id="@+id/buy_ticket_btn"
+        android:text="buy"/>
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:id="@+id/cancle_buy_ticket"
+            android:text="cancel"/>
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
