@@ -23,10 +23,8 @@ import android.widget.Toast;
 
 import com.facebook.FacebookSdk;
 import com.facebook.appevents.AppEventsLogger;
-import com.google.android.maps.GeoPoint;
 
-
-
+import Weather.WeatherActivity;
 
 
 public class MainActivity extends AppCompatActivity
@@ -108,7 +106,7 @@ public class MainActivity extends AppCompatActivity
         findViewById(R.id.btn5).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {//날씨
-            Intent intent = new Intent(MainActivity.this,WeatherAc.class);
+            Intent intent = new Intent(MainActivity.this, WeatherActivity.class);
                 startActivity(intent);
             }
         });
